@@ -22,4 +22,12 @@ Security and homelab tools developer. Building open source infrastructure for se
 
 ---
 
+## Support
+
+If you like free software, making a donation — no matter how small — helps keep it around. If you use it, support it. And if you can't afford to, mentioning it on your favorite social is appreciated too!
+
+[Support on Ko-fi](https://ko-fi.com/wolffcatskyy)
+
+---
+
 <sub>Los Angeles, CA</sub>

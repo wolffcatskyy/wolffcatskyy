@@ -1,8 +1,16 @@
 # wolffcatskyy
 
-Security and homelab tools developer. Building open source infrastructure for self-hosters.
+Security and homelab tools developer. Building open source infrastructure for self-hosters — with a focus on **CrowdSec** and **UniFi** ecosystems.
 
-## Projects
+## UniFi & Network Security
+
+Tools for securing and extending UniFi/Ubiquiti networks:
+
+- **[crowdsec-unifi-bouncer](https://github.com/wolffcatskyy/crowdsec-unifi-bouncer)** — Install and persist the CrowdSec firewall bouncer on UniFi OS devices (UDM, UDM SE, UDR) with automatic recovery from firmware updates
+- **[awesome-unifi](https://github.com/wolffcatskyy/awesome-unifi)** — A curated list of awesome UniFi and Ubiquiti networking tools, libraries, and resources
+- **[crowdsec-unifi-parser](https://github.com/wolffcatskyy/crowdsec-unifi-parser)** — CrowdSec parsers for UniFi firewall logs
+
+## All Projects
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
